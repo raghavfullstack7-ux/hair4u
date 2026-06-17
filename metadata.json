@@ -1,0 +1,6 @@
+{
+  "name": "Hair4U Salon",
+  "description": "Professional unisex salon offering hair, skin, nail, and bridal services in Chandigarh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
